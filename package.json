@@ -1,0 +1,14 @@
+{
+  "name": "pdftojsontest",
+  "version": "1.0.0",
+  "description": "pdf to json test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ajayrcdev@gmail.com",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "pdf2json": "^1.1.7"
+  }
+}
